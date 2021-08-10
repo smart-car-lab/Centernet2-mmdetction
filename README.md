@@ -3,7 +3,7 @@
 
 
 ## CenterNet2 - MMDetection
-This repository is the clean version of our reproduced implemention of [Probabilistic two-stage detection](https://arxiv.org/pdf/2103.07461.pdf), and submitted for [OpenMMLab Algorithm Ecological Challenge](https://openmmlab.com/competitions/algorithm-2021). You can also refer to our the fork version of [repo](https://github.com/smart-car-lab/Centernet2-mmdetction/) or the [PR](https://github.com/open-mmlab/mmdetection/pull/5854
+This repository is the clean version of our reproduced implemention of [Probabilistic two-stage detection](https://arxiv.org/pdf/2103.07461.pdf), and submitted for [OpenMMLab Algorithm Ecological Challenge](https://openmmlab.com/competitions/algorithm-2021). You can also refer to our [repo](https://github.com/smart-car-lab/Centernet2-mmdetction/) forked from MMdetection or the [PR](https://github.com/open-mmlab/mmdetection/pull/5854
 ) to the official mmdetection for details. 
 
 
